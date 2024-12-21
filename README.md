@@ -50,7 +50,7 @@ The application uses a modern stack with:
 - Secure API communication between frontend and backend
 - Responsive design for all device sizes
 
-## 🤝 Contributing
+<!-- ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -62,13 +62,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details. -->
 
 ## 🙏 Acknowledgments
 
 - HuggingFace for providing the AI models
 - Pinecone for vector database services
-- All contributors who help make DreamTales better
+<!-- - All contributors who help make DreamTales better -->
 
 ---
 
